@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{F490009D-0530-4C1F-9A14-1190533695CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{F41275BC-1BB6-4702-A93A-461AE50143F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{F2F81D96-FEE8-40C3-8178-97E916879F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{AB72E362-DC71-4F71-8AE7-CC98CC6A9772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{D7E41878-E930-4C95-9540-FE7037E700A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightObject", "FlyweightObject\FlyweightObject.csproj", "{A00E4276-325D-44CF-9DEF-45F2292A4491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{D09CD61E-8528-4E06-987B-C1645ACCB6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F490009D-0530-4C1F-9A14-1190533695CF}.Debug|x86.ActiveCfg = Debug|x86
+		{F490009D-0530-4C1F-9A14-1190533695CF}.Debug|x86.Build.0 = Debug|x86
+		{F490009D-0530-4C1F-9A14-1190533695CF}.Release|x86.ActiveCfg = Release|x86
+		{F490009D-0530-4C1F-9A14-1190533695CF}.Release|x86.Build.0 = Release|x86
+		{F41275BC-1BB6-4702-A93A-461AE50143F2}.Debug|x86.ActiveCfg = Debug|x86
+		{F41275BC-1BB6-4702-A93A-461AE50143F2}.Debug|x86.Build.0 = Debug|x86
+		{F41275BC-1BB6-4702-A93A-461AE50143F2}.Release|x86.ActiveCfg = Release|x86
+		{F41275BC-1BB6-4702-A93A-461AE50143F2}.Release|x86.Build.0 = Release|x86
+		{F2F81D96-FEE8-40C3-8178-97E916879F17}.Debug|x86.ActiveCfg = Debug|x86
+		{F2F81D96-FEE8-40C3-8178-97E916879F17}.Debug|x86.Build.0 = Debug|x86
+		{F2F81D96-FEE8-40C3-8178-97E916879F17}.Release|x86.ActiveCfg = Release|x86
+		{F2F81D96-FEE8-40C3-8178-97E916879F17}.Release|x86.Build.0 = Release|x86
+		{AB72E362-DC71-4F71-8AE7-CC98CC6A9772}.Debug|x86.ActiveCfg = Debug|x86
+		{AB72E362-DC71-4F71-8AE7-CC98CC6A9772}.Debug|x86.Build.0 = Debug|x86
+		{AB72E362-DC71-4F71-8AE7-CC98CC6A9772}.Release|x86.ActiveCfg = Release|x86
+		{AB72E362-DC71-4F71-8AE7-CC98CC6A9772}.Release|x86.Build.0 = Release|x86
+		{D7E41878-E930-4C95-9540-FE7037E700A0}.Debug|x86.ActiveCfg = Debug|x86
+		{D7E41878-E930-4C95-9540-FE7037E700A0}.Debug|x86.Build.0 = Debug|x86
+		{D7E41878-E930-4C95-9540-FE7037E700A0}.Release|x86.ActiveCfg = Release|x86
+		{D7E41878-E930-4C95-9540-FE7037E700A0}.Release|x86.Build.0 = Release|x86
+		{A00E4276-325D-44CF-9DEF-45F2292A4491}.Debug|x86.ActiveCfg = Debug|x86
+		{A00E4276-325D-44CF-9DEF-45F2292A4491}.Debug|x86.Build.0 = Debug|x86
+		{A00E4276-325D-44CF-9DEF-45F2292A4491}.Release|x86.ActiveCfg = Release|x86
+		{A00E4276-325D-44CF-9DEF-45F2292A4491}.Release|x86.Build.0 = Release|x86
+		{D09CD61E-8528-4E06-987B-C1645ACCB6A9}.Debug|x86.ActiveCfg = Debug|x86
+		{D09CD61E-8528-4E06-987B-C1645ACCB6A9}.Debug|x86.Build.0 = Debug|x86
+		{D09CD61E-8528-4E06-987B-C1645ACCB6A9}.Release|x86.ActiveCfg = Release|x86
+		{D09CD61E-8528-4E06-987B-C1645ACCB6A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
